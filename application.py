@@ -10,6 +10,7 @@ app.config.update(
     MAIL_USERNAME='MyTech.Software@ge.com'
 )
 
+
 mail = Mail(app)
 
 
