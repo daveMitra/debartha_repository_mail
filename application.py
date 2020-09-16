@@ -11,6 +11,7 @@ app.config.update(
 )
 
 
+
 mail = Mail(app)
 
 
